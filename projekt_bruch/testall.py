@@ -353,4 +353,4 @@ class TestIteration(unittest.TestCase):
         return obj[index]
 
 if __name__ == "__main__":
-unittest.main()
+    unittest.main()
